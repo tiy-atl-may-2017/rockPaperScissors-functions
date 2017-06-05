@@ -1,0 +1,15 @@
+body {
+  background: grey;
+  color: lightgrey;
+}
+
+#container{
+  position: relative;
+}
+
+#result {
+  font-size: 120px;
+  color: orange;
+  position: absolute;
+  display: block;
+}
